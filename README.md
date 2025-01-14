@@ -14,13 +14,13 @@ Currently: Transitioning into full-time roles while continuing to refine my skil
 ### 🔗 Projects I've Worked On
 Here are some examples of my work:  
 - **C++ Finance Tracker**: A desktop application for budgeting and expense tracking, integrating features like data visualization and real-time calculations.  
-  [View Repo](https://github.com/yourusername/finance-tracker)
+  [View Repo](https://github.com/anuhassandev/finance-tracker)
 
 - **Student Database Management (Java)**: A back-end system for organizing and querying student data efficiently.  
-  [View Repo](https://github.com/yourusername/student-database)
+  [View Repo](https://github.com/anuhassandev/student-database)
 
 - **SQL E-Commerce Database**: A fully normalized database design with advanced querying capabilities for managing products, customers, and orders.  
-  [View Repo](https://github.com/yourusername/sql-ecommerce)
+  [View Repo](https://github.com/anuhassandev/sql-ecommerce)
 
 ---
 
